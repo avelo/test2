@@ -1,0 +1,3 @@
+[submodule "probas2"]
+	path = probas2
+	url = https://github.com/avelo/test-repo-789.git
